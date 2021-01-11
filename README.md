@@ -1,1 +1,1 @@
-# DJANGO--TODO--APP
+# Django_Project
